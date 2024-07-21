@@ -17,7 +17,7 @@
 ##Then follow the below steps<br>
 1. Download the code and extract it to the htdocs Directory of Xampp Directory.<br>
 2. Open Xampp Control Panel and start the Apache and MySQL modules.<br>
-3. Click on admin button of the MySQL module and import the database.<br>
+3. Click on admin button of the MySQL module and import the database i.e nsfitness.sql file.<br>
 4. Then navigate to "localhost/nsFitness" on your browser.<br>
 5. For admin login, both username and password are "admin".<br>
 
